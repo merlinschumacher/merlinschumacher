@@ -22,7 +22,7 @@ Whether I’m building a custom IoT project or diving into the latest trends in 
   [filme-hannover.de](https://filme-hannover.de)
 
 - **e-nr.de**  
-  A Golang-based web service providing information on European food additive codes (E numbers) via both web and DNS queries. The application uses a static list and will return information about the requested additive number via DNS. It also offers automatic redirects from subdomains like [300.e-nr.de](300.e-nr.de) to the corresponding German Wikipedia article.  
+  A Golang-based web service providing information on European food additive codes (E numbers) via both web and DNS queries. The application uses a static list and will return information about the requested additive number via DNS. It also offers automatic redirects from subdomains like [300.e-nr.de](https://300.e-nr.de) to the corresponding German Wikipedia article.  
   [e-nr.de](https://e-nr.de)
 
 - **esp8266-clock**  
