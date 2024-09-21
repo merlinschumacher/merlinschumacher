@@ -84,7 +84,7 @@ Whether I’m building a custom IoT project or diving into the latest trends in 
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@merlinschumacher)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merlinschumacher&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=merlinschumacher&theme=transparent&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=merlinschumacher&theme=transparent&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true&hide_current_streak=true)](https://git.io/streak-stats)
 
 ---
 
